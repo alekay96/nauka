@@ -1,0 +1,3 @@
+javascript: document.body.contentEditable = 'true'; document.designMode = 'on'; void 0
+
+https://strefakodera.pl/tworzenie-stron-www/html-5/podstawowy-szkielet-strony-internetowej-oparty-o-html-5
